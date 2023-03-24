@@ -1,0 +1,1 @@
+flutter packages pub run image_res:main watch & agen -w --no-class-prefix -r "lcc" -o "lib/constants" -t "f"  --const-array --folder-ignore "assets/fonts"
